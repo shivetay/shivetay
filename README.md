@@ -4,7 +4,7 @@
 
 # I am **Łukasz** aspiring Front end Developer With passion for MTB . Looking for new opportunities
 
-## Feel fre to check [my portfolio](www.lukaszdawidowicz.pl)
+## Feel free to check [my portfolio](www.lukaszdawidowicz.pl)
 
 🔭 I’m currently working on [Protfolio 2.0 version 😄](https://github.com/shivetay/ld_portfolio_2.0)
 
