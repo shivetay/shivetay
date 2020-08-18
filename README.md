@@ -7,9 +7,8 @@
 
 ## Feel free to check [my portfolio](www.lukaszdawidowicz.pl)
 
-🔭 I’m currently working on [Protfolio 2.0 version 😄](https://github.com/shivetay/ld_portfolio_2.0)
-🤯 I want to create my own NPM CSS package ✨
-
+🔭 I’m currently working on [Protfolio 2.0 version 😄](https://github.com/shivetay/ld_portfolio_2.0)<br /><br />
+🤯 I want to create my own NPM CSS package ✨<br />
 
 <br />
 <hr />
