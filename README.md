@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am **Łukasz** aspiring Front end Developer With passion for MTB 🚵.
+I am an IT Support Engineer 💻 developing a new pssoin for coding.
 
 <br />
 <hr />
 
-# I am **Łukasz** aspiring Front end Developer With passion for MTB 🚵. Looking for new opportunities
+#  Looking for new opportunities 🧐
 
 ## Feel free to check [my portfolio](www.lukaszdawidowicz.pl)
 
