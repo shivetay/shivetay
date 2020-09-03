@@ -9,7 +9,7 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 ## Feel free to check [my portfolio](www.ldawidowicz.pl)
 
 🔭 I’m currently working on [Protfolio 2.0 version 😄](https://github.com/shivetay/ld_portfolio_2.0)<br /><br />
-🤯 I want to create my own NPM CSS package ✨<br />
+🤯 I want to create my own NPM CSS package ✨ and CMS <br />
 
 <br />
 <hr />
