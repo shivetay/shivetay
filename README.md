@@ -14,7 +14,8 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 <br />
 <hr />
 
-### Latest projects 🧬
+### Latest projects 🧬💻
+- [Wdding planer portfolio - bohho.eu 👰🍰](bohho.eu)<br /><br />
 - [Protfolio 2.0 version 😄](https://github.com/shivetay/ld_portfolio_2.0)<br /><br />
 
 <br />
@@ -28,7 +29,7 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 <br />
 <hr />
 
-### Languages and Tools:
+### Languages and Tools 👾:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
