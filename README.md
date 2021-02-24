@@ -31,7 +31,7 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 - React movie app<br /><br />
 - CRM for printing company<br /><br />
 - CRM for wedding planer <br /><br />
-- JS shop< br/><br />
+- JS shop<br /><br />
 
 <br />
 <hr />
