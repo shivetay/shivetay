@@ -15,7 +15,7 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 <hr />
 
 ## Projects
-- [Wedding planer portfolio - bohho.eu 👰🍰](bohho.eu)<br /><br />
+- [Wedding planer portfolio - bohho.eu 👰🍰](https://bohho.eu)<br /><br />
 - [Protfolio 2.0 version 😄](https://github.com/shivetay/ld_portfolio_2.0)<br /><br />
 - [Restaurant Dashboard 🥩](https://shivetay.github.io/kodilla_dashbord/)<br /><br />
 - [Wheater App ⛈🌪](https://shivetay.github.io/vanila_js_wheaterApp/)<br /><br />
