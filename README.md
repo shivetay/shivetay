@@ -25,7 +25,7 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 - [React Protfolio 😄](https://nervous-agnesi-db230a.netlify.app/) - [code](https://github.com/shivetay/LD_portfolio)<br /><br />
 
 ### Latest projects 🧬💻
-- [Wdding planer portfolio - bohho.eu 👰🍰](bohho.eu)<br /><br />
+- [Wdding planer portfolio - bohho.eu 👰🍰](https://bohho.eu)<br /><br />
 - [Protfolio 2.0 version 😄](https://github.com/shivetay/ld_portfolio_2.0)<br /><br />
 
 <br />
