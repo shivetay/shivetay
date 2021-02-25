@@ -15,11 +15,14 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 <hr />
 
 ## Projects
-- [Wedding planer portfolio - bohho.eu 👰🍰](https://bohho.eu)<br /><br />
-- [Protfolio 2.0 version 😄](https://github.com/shivetay/ld_portfolio_2.0)<br /><br />
-- [Restaurant Dashboard 🥩](https://shivetay.github.io/kodilla_dashbord/)<br /><br />
-- [Wheater App ⛈🌪](https://shivetay.github.io/vanila_js_wheaterApp/)<br /><br />
-- [Blog Page 👨🏻‍💻](https://shivetay.github.io/kodill_blog/)<br /><br />
+- [Wedding planer portfolio - bohho.eu 👰🍰](https://bohho.eu) - [code](https://github.com/shivetay/wedding_portfolio)<br /><br />
+- [Protfolio 2.0 version 😄](https://github.com/shivetay/ld_portfolio_2.0) - [code](https://github.com/shivetay/ld_portfolio_2.0)<br /><br />
+- [Restaurant Dashboard 🥩](https://shivetay.github.io/kodilla_dashbord/)  - [code](https://github.com/shivetay/kodilla_dashbord)<br /><br />
+- [Wheater App ⛈🌪](https://shivetay.github.io/vanila_js_wheaterApp/) - [code](https://github.com/shivetay/vanila_js_wheaterApp)<br /><br />
+- [Blog Page 👨🏻‍💻](https://shivetay.github.io/kodill_blog/) - [code](https://github.com/shivetay/kodill_blog)<br /><br />
+- [React/Redux To do List 📟](https://todo-kodilla.herokuapp.com/) - [code](https://github.com/shivetay/kodilla_to_do_react)<br /><br />
+- [Vanila JS photBlog  📸 📱](https://lit-hollows-45064.herokuapp.com/) - [code](https://github.com/shivetay/js_photBlog)<br /><br />
+- [React Protfolio 😄](https://nervous-agnesi-db230a.netlify.app/) - [code](https://github.com/shivetay/LD_portfolio)<br /><br />
 
 ### Latest projects 🧬💻
 - [Wdding planer portfolio - bohho.eu 👰🍰](bohho.eu)<br /><br />
@@ -27,7 +30,7 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 
 <br />
 
-### Planned projects 🧬💻
+### Planned projects 🛠 🧫
 - React movie app<br /><br />
 - CRM for printing company<br /><br />
 - CRM for wedding planer <br /><br />
