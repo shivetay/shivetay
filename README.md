@@ -23,10 +23,12 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 - [React/Redux To do List 📟](https://todo-kodilla.herokuapp.com/) - [code](https://github.com/shivetay/kodilla_to_do_react)<br /><br />
 - [Vanila JS photBlog  📸 📱](https://lit-hollows-45064.herokuapp.com/) - [code](https://github.com/shivetay/js_photBlog)<br /><br />
 - [React Protfolio 😄](https://nervous-agnesi-db230a.netlify.app/) - [code](https://github.com/shivetay/LD_portfolio)<br /><br />
+- [JS Protfolio 🤖](https://peaceful-lalande-916b57.netlify.app/) - [code](https://github.com/shivetay/ld_portfolio_3.0)<br /><br />
 
 ### Latest projects 🧬💻
 - [Wdding planer portfolio - bohho.eu 👰🍰](https://bohho.eu)<br /><br />
 - [Protfolio 2.0 version 😄](https://github.com/shivetay/ld_portfolio_2.0)<br /><br />
+- [JS Protfolio 🤖](https://github.com/shivetay/ld_portfolio_3.0)<br /><br />
 
 <br />
 
