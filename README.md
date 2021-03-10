@@ -24,6 +24,7 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 - [Vanila JS photBlog  📸 📱](https://lit-hollows-45064.herokuapp.com/) - [code](https://github.com/shivetay/js_photBlog)<br /><br />
 - [React Protfolio 😄](https://nervous-agnesi-db230a.netlify.app/) - [code](https://github.com/shivetay/LD_portfolio)<br /><br />
 - [JS Protfolio 🤖](https://peaceful-lalande-916b57.netlify.app/) - [code](https://github.com/shivetay/ld_portfolio_3.0)<br /><br />
+- [JS Movie App 🎬](https://shivetay.github.io/VanilaJS_MovieApp/public/index.html) - [code](https://github.com/shivetay/VanilaJS_MovieApp)<br /><br />
 
 ### Latest projects 🧬💻
 - [Wdding planer portfolio - bohho.eu 👰🍰](https://bohho.eu)<br /><br />
