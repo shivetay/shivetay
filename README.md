@@ -14,6 +14,9 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 <br />
 <hr />
 
+# Work in progres
+- [hoteal React app  🛌🏻](http://scots-hotel-12387.herokuapp.com/) - [code](https://github.com/shivetay/react_hotel_page)<br /><br />
+
 ## Projects
 - [Wedding planer portfolio - bohho.eu 👰🍰](https://bohho.eu) - [code](https://github.com/shivetay/wedding_portfolio)<br /><br />
 - [Protfolio 2.0 version 😄](https://github.com/shivetay/ld_portfolio_2.0) - [code](https://github.com/shivetay/ld_portfolio_2.0)<br /><br />
