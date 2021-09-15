@@ -15,7 +15,7 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 <hr />
 
 # Work in progres
-- [hoteal React app  🛌🏻](http://scots-hotel-12387.herokuapp.com/) - [code](https://github.com/shivetay/react_hotel_page)<br /><br />
+
 
 ## Projects
 - [Wedding planer portfolio - bohho.eu 👰🍰](https://bohho.eu) - [code](https://github.com/shivetay/wedding_portfolio)<br /><br />
@@ -28,6 +28,7 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 - [React Protfolio 😄](https://nervous-agnesi-db230a.netlify.app/) - [code](https://github.com/shivetay/LD_portfolio)<br /><br />
 - [JS Protfolio 🤖](https://peaceful-lalande-916b57.netlify.app/) - [code](https://github.com/shivetay/ld_portfolio_3.0)<br /><br />
 - [JS Movie App 🎬](https://shivetay.github.io/VanilaJS_MovieApp/public/index.html) - [code](https://github.com/shivetay/VanilaJS_MovieApp)<br /><br />
+- [hoteal React app  🛌🏻](http://scots-hotel-12387.herokuapp.com/) - [code](https://github.com/shivetay/react_hotel_page)<br /><br />
 
 ### Latest projects 🧬💻
 - [Wdding planer portfolio - bohho.eu 👰🍰](https://bohho.eu)<br /><br />
@@ -63,6 +64,9 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivetay&layout=compact)]
 
 <!--
 **shivetay/shivetay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
