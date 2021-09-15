@@ -67,7 +67,7 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 <br />
 <hr />
 <div align=center>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivetay&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivetay&layout=compact" />
 </div>
 
 <!--
