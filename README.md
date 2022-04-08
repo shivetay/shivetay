@@ -1,10 +1,9 @@
 ### Hi there 👋 I am **Łukasz** aspiring Front end Developer With passion for MTB 🚵.
-I am an IT Support Engineer 💻 developing a new pssoin for coding.
 
 <br />
 <hr />
 
-#  Looking for new opportunities 🧐
+<!-- #  Looking for new opportunities 🧐
 
 ## Feel free to check [my portfolio](https://lukaszdawidowicz.pl/)
 
@@ -42,7 +41,7 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 - CRM for printing company<br /><br />
 - CRM for wedding planer <br /><br />
 - JS shop<br /><br />
-
+ -->
 <br />
 <hr />
 
