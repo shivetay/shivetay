@@ -1,8 +1,5 @@
 ### Hi there 👋 I am **Łukasz** aspiring Front end Developer With passion for MTB 🚵.
 
-<br />
-<hr />
-
 <!-- #  Looking for new opportunities 🧐
 
 ## Feel free to check [my portfolio](https://lukaszdawidowicz.pl/)
