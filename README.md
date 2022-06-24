@@ -1,6 +1,10 @@
 ### Hi there 👋 I am **Łukasz** aspiring Front end Developer With passion for MTB 🚵.
+I am an IT Support Engineer 💻 developing a new pssoin for coding.
 
-<!-- #  Looking for new opportunities 🧐
+<br />
+<hr />
+
+#  Looking for new opportunities 🧐
 
 ## Feel free to check [my portfolio](https://lukaszdawidowicz.pl/)
 
@@ -38,7 +42,7 @@
 - CRM for printing company<br /><br />
 - CRM for wedding planer <br /><br />
 - JS shop<br /><br />
- -->
+
 <br />
 <hr />
 
@@ -68,9 +72,7 @@
 
 <!--
 **shivetay/shivetay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
