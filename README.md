@@ -16,7 +16,7 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 
 # Work in progres
 
-
+<!--
 ## Projects
 - [Wedding planer portfolio - bohho.eu 👰🍰](https://bohho.eu) - [code](https://github.com/shivetay/wedding_portfolio)<br /><br />
 - [Protfolio 2.0 version 😄](https://github.com/shivetay/ld_portfolio_2.0) - [code](https://github.com/shivetay/ld_portfolio_2.0)<br /><br />
@@ -42,7 +42,7 @@ I am an IT Support Engineer 💻 developing a new pssoin for coding.
 - CRM for printing company<br /><br />
 - CRM for wedding planer <br /><br />
 - JS shop<br /><br />
-
+-->
 <br />
 <hr />
 
