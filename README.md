@@ -1,54 +1,18 @@
-### Hi there 👋 I am **Łukasz** aspiring Front end Developer With passion for MTB 🚵.
-I am an IT Support Engineer 💻 developing a new pssoin for coding.
+Hello! I'm a dedicated **Frontend Developer** specializing in complex, scalable web and mobile applications.
 
-<br />
-<hr />
+### 💻 My Tech Stack
+- **Core:** **React**, **Next.js**, **TypeScript**
+- **State & Testing:** **Zustand**, **Jest**, **Cypress**, **Playwright**
+- **Backend Knowledge:** **Node.js** (Express) & **MongoDB**
 
-#  Looking for new opportunities 🧐
+### 🚀 Professional Highlights
+- **AirSlate (Frontend Developer):** Contributed to a cutting-edge **mobile web application** using **React**, **Zustand**, and **TypeScript**. Key focus on reliability through extensive **unit (Jest)** and **E2E (Cypress)** testing. Gained hands-on experience implementing and integrating **microfrontends** and working on **AI-related initiatives**.
+- **Better Software Group (Junior Frontend Developer):** Developed multiplatform VOD applications (web & SmartTV) for clients like **Nordisk** using **React**, demonstrating foundational skills in large-scale application development.
 
-<!--## Feel free to check [my portfolio](https://lukaszdawidowicz.pl/) -->
-
-🔭 I’m currently working on <b>JS & React skills</b> 🎛<br /><br />
-<!-- 🤯 I want to create my own NPM CSS package ✨ and CMS <br /> -->
-
-<br />
-<hr />
-
-# Work in progres
-
-<!--
-## Projects
-- [Wedding planer portfolio - bohho.eu 👰🍰](https://bohho.eu) - [code](https://github.com/shivetay/wedding_portfolio)<br /><br />
-- [Protfolio 2.0 version 😄](https://github.com/shivetay/ld_portfolio_2.0) - [code](https://github.com/shivetay/ld_portfolio_2.0)<br /><br />
-- [Restaurant Dashboard 🥩](https://shivetay.github.io/kodilla_dashbord/)  - [code](https://github.com/shivetay/kodilla_dashbord)<br /><br />
-- [Wheater App ⛈🌪](https://shivetay.github.io/vanila_js_wheaterApp/) - [code](https://github.com/shivetay/vanila_js_wheaterApp)<br /><br />
-- [Blog Page 👨🏻‍💻](https://shivetay.github.io/kodill_blog/) - [code](https://github.com/shivetay/kodill_blog)<br /><br />
-- [React/Redux To do List 📟](https://todo-kodilla.herokuapp.com/) - [code](https://github.com/shivetay/kodilla_to_do_react)<br /><br />
-- [Vanila JS photBlog  📸 📱](https://lit-hollows-45064.herokuapp.com/) - [code](https://github.com/shivetay/js_photBlog)<br /><br />
-- [React Protfolio 😄](https://nervous-agnesi-db230a.netlify.app/) - [code](https://github.com/shivetay/LD_portfolio)<br /><br />
-- [JS Protfolio 🤖](https://peaceful-lalande-916b57.netlify.app/) - [code](https://github.com/shivetay/ld_portfolio_3.0)<br /><br />
-- [JS Movie App 🎬](https://shivetay.github.io/VanilaJS_MovieApp/public/index.html) - [code](https://github.com/shivetay/VanilaJS_MovieApp)<br /><br />
-- [hoteal React app  🛌🏻](http://scots-hotel-12387.herokuapp.com/) - [code](https://github.com/shivetay/react_hotel_page)<br /><br />
-
-### Latest projects 🧬💻
-- [Wdding planer portfolio - bohho.eu 👰🍰](https://bohho.eu)<br /><br />
-- [Protfolio 2.0 version 😄](https://github.com/shivetay/ld_portfolio_2.0)<br /><br />
-- [JS Protfolio 🤖](https://github.com/shivetay/ld_portfolio_3.0)<br /><br />
-
-<br />
-
-### Planned projects 🛠 🧫
-- React movie app<br /><br />
-- CRM for printing company<br /><br />
-- CRM for wedding planer <br /><br />
-- JS shop<br /><br />
--->
-<br />
-<hr />
+I thrive in collaborative environments, focusing on writing clean, maintainable code and ensuring exceptional user experiences across all platforms.
 
 ### Contact me 📫
 
-[<img align="left" alt="lukaszdawidowicz.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](www.ldawidowicz.pl)
 [<img align="left" alt="lukaszdawidowicz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/%C5%82ukasz-dawidowicz-698a59b6/)
 
 <br />
