@@ -6,6 +6,8 @@ Hello! I'm a dedicated **Frontend Developer** specializing in complex, scalable 
 - **Backend Knowledge:** **Node.js** (Express) & **MongoDB**
 
 ### 🚀 Professional Highlights
+- **clusterborad.pl** Creator of clusterborad.pl. A colaborative board for freelancer, designers etc
+- **blurify (Feontend Developer):** Creating scalable application for **mobile** and **desktop** users, using moder frontend stack with **AI**. Core developer for **market.orange.pl** marketplace.
 - **AirSlate (Frontend Developer):** Contributed to a cutting-edge **mobile web application** using **React**, **Zustand**, and **TypeScript**. Key focus on reliability through extensive **unit (Jest)** and **E2E (Cypress)** testing. Gained hands-on experience implementing and integrating **microfrontends** and working on **AI-related initiatives**.
 - **Better Software Group (Junior Frontend Developer):** Developed multiplatform VOD applications (web & SmartTV) for clients like **Nordisk** using **React**, demonstrating foundational skills in large-scale application development.
 
